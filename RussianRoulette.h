@@ -1,0 +1,1 @@
+extern int playRussianRoulette(int people = 2, int bullet = 1);
